@@ -26,7 +26,7 @@ Neste projeto foram implementados testes utilizando o **Jest** para verificar se
   * `cd project-jest`
 
 3. Instale as dependências
-  * `cd project-jest`
+  * `npm install`
 ---
 
 ## Linter

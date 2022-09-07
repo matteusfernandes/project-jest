@@ -17,7 +17,7 @@ Neste projeto foram implementados testes utilizando o **Jest** para verificar se
 
 ---
 
-# Instruções
+## Instruções
 
 1. Clone o repositório
   * `git clone git@github.com:matteusfernandes/project-jest.git`.
@@ -41,9 +41,5 @@ Você pode ler mais sobre o `EsLint` e como instalá-lo [aqui](https://app.betry
 
 ---
 
-## Matteus Fernandes - Dev Full Stack
-
-- Para visualizar o **Pull Request** original aberto no repositório da Trybe e tomar nota da avaliação e dos testes, acesse: [Matteus](https://github.com/tryber/sd-013-b-project-jest/pull/83)
-- [LinkedIn](https://www.linkedin.com/in/matteusfernandes/)
-
----
+#### Para visualizar o **Pull Request** original aberto no repositório da Trybe e tomar nota da avaliação e dos testes, acesse: [Project Jest](https://github.com/tryber/sd-013-b-project-jest/pull/83)
+#### 💻 **Desenvolvido por** [@matteusfernandes](https://github.com/matteusfernandes) • 2022 🔗 [LinkedIn](https://www.linkedin.com/in/matteusfernandes/)
